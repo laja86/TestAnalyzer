@@ -1,0 +1,60 @@
+{
+    "test_cases": [
+        {
+            "name": "Test Case 1",
+            "id": "TEST-1",
+            "status": "passed",
+            "Assignee": "ljuarez",
+            "execution_time": 45,
+            "executed_on": "2024-02-22T15:27:16.523Z"
+        },
+        {
+            "name": "Test Case 2",
+            "id": "TEST-2",
+            "status": "failed",
+            "Assignee": "ljuarez",
+            "execution_time": 60,
+            "executed_on": "2024-02-21T12:21:19.523Z"
+        },
+        {
+            "name": "Test Case 3",
+            "id": "TEST-3",
+            "status": "passed",
+            "Assignee": "ljuarez",
+            "execution_time": 45,
+            "executed_on": "2024-02-23T15:33:16.523Z"
+        },
+        {
+            "name": "Test Case 4",
+            "id": "TEST-4",
+            "status": "passed",
+            "Assignee": "ljuarez",
+            "execution_time": 45,
+            "executed_on": "2024-02-23T11:12:16.523Z"
+        },
+        {
+            "name": "Test Case 5",
+            "id": "TEST-5",
+            "status": "blocked",
+            "Assignee": "mrodriguez",
+            "execution_time": 25,
+            "executed_on": "2024-02-24T10:40:30.523Z"
+        },
+        {
+            "name": "Test Case 6",
+            "id": "TEST-6",
+            "status": "failed",
+            "Assignee": "mrodriguez",
+            "execution_time": 35,
+            "executed_on": "2024-02-24T10:40:30.523Z"
+        },
+        {
+            "name": "Test Case 7",
+            "id": "TEST-7",
+            "status": "passed",
+            "Assignee": "ljuarez",
+            "execution_time": 10,
+            "executed_on": "2024-02-22T12:10:30.523Z"
+        }
+    ]
+}
